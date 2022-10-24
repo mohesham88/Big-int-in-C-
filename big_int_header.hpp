@@ -1,7 +1,8 @@
 #ifndef BIG_INT_H
 #define BIG_INT_H
 
-#include<bits\stdc++.h>
+#include<iostream>
+#include<vector>
 using namespace std;
 
 
